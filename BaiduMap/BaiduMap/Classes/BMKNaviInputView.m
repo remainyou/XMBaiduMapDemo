@@ -13,7 +13,7 @@
 
 @property (nonatomic, assign)BOOL isStart;           //是否是目的地
 @property (nonatomic, strong) NSString *address; //目的地地址
-@property (nonatomic, assign)BOOL isMyLocation;
+@property (nonatomic, assign)BOOL isMyLocation;  //是否是我的位置
 
 
 @end
